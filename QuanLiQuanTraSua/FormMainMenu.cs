@@ -41,6 +41,7 @@ namespace QuanLiQuanTraSua
         {
             get { return loginAccount; }
             set { loginAccount = value; ChangeAccount(loginAccount.Type); }
+
         }
 
 
